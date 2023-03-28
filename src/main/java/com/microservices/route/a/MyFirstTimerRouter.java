@@ -10,7 +10,7 @@ import org.slf4j.Logger;
 
 import java.time.LocalDateTime;
 
-@Component
+//@Component
 public class MyFirstTimerRouter extends RouteBuilder {
 
     @Autowired
